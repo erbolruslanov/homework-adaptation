@@ -1,0 +1,17 @@
+@media (max-width: 1440px) {
+
+}
+
+@media (max-width: 1024px) {
+    .col-3 {
+        width: 33.3333%;
+        padding: 0 10px;
+    }
+}
+
+@media (max-width: 380px) {
+    .col-3 {
+        width: 100%;
+        padding: 0 10px;
+    }
+}
